@@ -1,4 +1,4 @@
-# PDF Downloader Extension
+# Multi PDF Downloader Extension
 
 A simple Chromium extension that scans all open tabs for PDF files and downloads them when you click a button.
 
