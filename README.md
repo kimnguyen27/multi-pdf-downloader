@@ -4,11 +4,7 @@ A simple Chromium extension that scans all open tabs for PDF files and downloads
 
 ## Features
 
-- Scans all open tabs to find PDF files.
 - Downloads all PDF files from open tabs.
-- Displays a loading spinner while downloading.
-- Displays a success message once the downloads are complete.
-- Handles both singular and plural forms for PDF count in the status message.
 
 ## Installation
 
@@ -39,18 +35,6 @@ To install this extension locally, follow these steps:
 3. Click the **"Download PDFs"** button to start the process.
 4. The extension will scan open tabs for PDF files.
 5. Once PDFs are found, they will be downloaded automatically.
-
-### After clicking the button:
-
-- The status text will update based on the number of PDFs found.
-- A spinner will appear while the PDFs are being downloaded.
-- Once the downloads are complete, a success message will appear for 5 seconds, and the button will reset.
-
-## Files
-
-- `popup.html`: The popup UI for the extension.
-- `popup.css`: The CSS for styling the popup.
-- `popup.js`: The JavaScript that controls the extension's functionality.
 
 ## Contributing
 
