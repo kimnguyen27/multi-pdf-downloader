@@ -13,7 +13,7 @@ To install this extension locally, follow these steps:
 1. Clone or download this repository to your local machine.
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/kimnguyen27/multi-pdf-downloader.git
     ```
 
 2. Open Chrome (or any Chromium-based browser).
